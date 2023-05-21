@@ -1,6 +1,9 @@
 
 ![linkedin](https://github.com/AryaV14/AryaV14/assets/99739280/22b0d006-7ca1-4b20-b7fc-864c4ac73337)
-https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)" width="100"/>
+</div>
+
 
 # Hi there 👋 I'm Arya Vijayan
 
