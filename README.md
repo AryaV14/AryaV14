@@ -2,7 +2,7 @@
 ![linkedin](https://github.com/AryaV14/AryaV14/assets/99739280/22b0d006-7ca1-4b20-b7fc-864c4ac73337)
 
 
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/UX4mOHLjqEq52Gkq1c/giphy.gif" width="200"/>
 </div>
 
