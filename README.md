@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on my UI design skills.
 - 🌱 I’m currently learning Flutter.
 - 🙃 I'm interested in Game development.
-- 👯 I’m looking to collaborate on designing and development projects
+- 👯 I’m looking to collaborate on design and development projects
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Frontend.
 - 📫 How to reach me: aryavijayanrohini@gmail.com
