@@ -22,3 +22,6 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,cpp,python,dart&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,&theme=light)](https://skillicons.dev)
+
