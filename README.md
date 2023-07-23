@@ -1,6 +1,11 @@
 
 <!-- ![linkedin](https://github.com/AryaV14/AryaV14/assets/99739280/22b0d006-7ca1-4b20-b7fc-864c4ac73337) -->
-
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/ >
+  I'm Arya Vijayan
+</h1>
+ 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/OmJgoTRDIljEMJVScS/giphy.gif" width="250"/>
 </div>
@@ -19,12 +24,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AryaV14&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/ >
-  I'm Arya Vijayan
-</h1>
- 
+
+<hr>
 
 
 - 🔭 I’m currently working on my UI design skills.
