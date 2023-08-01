@@ -54,7 +54,7 @@ Frameworks & Libraries:
 
 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sqlquery&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,SQL&theme=light)](https://skillicons.dev)
 
 
 
