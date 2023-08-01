@@ -51,17 +51,18 @@ Frameworks & Libraries:
  
 [![My Skills](https://skillicons.dev/icons?i=flutter,flask,firebase&theme=light)](https://skillicons.dev)
 
+
 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,CSS,sql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sqlquery&theme=light)](https://skillicons.dev)
 
-Tools
-[![My Skills](https://skillicons.dev/icons?i=macos,windows,linux&theme=light)](https://skillicons.dev)
 
-Design Tools:
+
+
+Tools:
  
  
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,linux&theme=light)](https://skillicons.dev)
 
 ---
 
