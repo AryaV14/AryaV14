@@ -44,7 +44,7 @@
 
 Languages: 
   
-[![My Skills](https://skillicons.dev/icons?i=c,java,cpp,python,dart&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,cpp,python,javascript,dart&theme=light)](https://skillicons.dev)
 
 Tools & Frameworks:
  
