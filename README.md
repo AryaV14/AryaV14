@@ -62,7 +62,7 @@ Technologies
 Tools:
  
  
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,git,linux&theme=light)](https://skillicons.dev)
 
 ---
 
