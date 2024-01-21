@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/arya-vijayan-0b1835223/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://aryav14.github.io/Portfolio/">
+  <a href="https://www.aryavijayan.tech/">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=web&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="http://twitter.com/AryaV140502">
